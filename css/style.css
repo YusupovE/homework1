@@ -4,10 +4,12 @@
 }
 
 header {
+  /* position: fixed; */
   background: #fff;
   height: 90px;
   margin-bottom: 35px;
   border-bottom: 2px solid #ccc;
+  z-index: 1;
 }
 
 h1 {
@@ -55,6 +57,7 @@ a {
   height: 440px;
   margin-bottom: 85px;
   border: 1px solid #ddd;
+  z-index: ;
 }
 
 .about-me h2 {
