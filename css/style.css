@@ -44,7 +44,7 @@ a {
 }
 
 .bg-class {
-  background: url(../body-pic.png);
+  background: url(../images/body-pic.png);
 }
 
 .about-me {
@@ -127,4 +127,13 @@ p {
   border-top: 8px solid #4aaaa5;
   height: 82px;
   padding: 25px;
+}
+
+.bt {
+  background-color: #4aaaa5;
+  font-size: 18px;
+  color: #fff;
+  border: 0px;
+  padding: 10px 30px;
+
 }
